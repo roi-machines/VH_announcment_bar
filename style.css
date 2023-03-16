@@ -1,0 +1,22 @@
+.announcement-bar2{
+    background-color: #356A8A;
+    color: white !important;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    text-align: center;
+    }
+    .announcement-bar2 a{
+    color: white !important;
+    }
+    .announcement-bar2 button{
+      background-color: white;
+      color: #356A8A;
+      border-radius: 25px;
+      border: none;
+      text-align: center;
+      width: 115px;
+      display: inline-block;
+      margin-left: 10px;
+      padding-bottom: 4px;
+      padding-top: 4px;
